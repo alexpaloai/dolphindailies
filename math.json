@@ -1,0 +1,44 @@
+[
+  {
+    "number": "01/09/2026",
+    "topic": "Nonlinear Functions",
+    "difficulty": "Hard",
+    "question": "Let f(x) = ax^2 + bx + c be a quadratic with integer coefficients. The roots r and s satisfy the conditions: r + s = 6, r^3 + s^3 = 252. If a + b + c = 14, what is the value of a?",
+    "choices": {
+      "A": "-2",
+      "B": "1",
+      "C": "3",
+      "D": "-4"
+    },
+    "answer": "A",
+    "explanation": "https://www.desmos.com/calculator/fcnirqczib"
+  },
+  {
+    "number": "01/10/2026",
+    "topic": "Nonlinear Inequalities",
+    "difficulty": "Hard",
+    "question": "If the following function has exactly one solution, what must be the value of k? 9x^2 - 8x + k = 0",
+    "choices": {
+      "A": "-1",
+      "B": "-9/8",
+      "C": "16/9",
+      "D": "3"
+    },
+    "answer": "C",
+    "explanation": "https://www.desmos.com/calculator/ajueh3uka8"
+  },
+  {
+    "number": "01/11/2026",
+    "topic": "Nonlinear functions",
+    "difficulty": "Hard",
+    "question": "A quadratic function f(x) = ax^2 + bx + c passes through the points (1, 8), (2, 15), and (3, 24). What is the value of a?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "A",
+    "explanation": "https://www.desmos.com/calculator/asaadg5h0x"
+  }
+]
