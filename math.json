@@ -3,7 +3,7 @@
     "number": "01/09/2026",
     "topic": "Nonlinear Functions",
     "difficulty": "Hard",
-    "question": "Let f(x) = ax^2 + bx + c be a quadratic with integer coefficients. The roots r and s satisfy the conditions: r + s = 6, r^3 + s^3 = 252. If a + b + c = 14, what is the value of a?",
+    "question": "\text{Let } f(x) = ax^2 + bx +c \text{ be a quadratic with integer coefficients. The roots r and s satisfy the conditions: } r + s = 6, r^3+s^3=252. \text{ If } a + b + c = 14, \text{what is the value of a?}",
     "choices": {
       "A": "-2",
       "B": "1",
