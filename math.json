@@ -31,7 +31,7 @@
     "number": "01/11/2026",
     "topic": "Nonlinear functions",
     "difficulty": "Hard",
-    "question": "\text{A quadratic function } f(x) = ax^2 + bx + c \text{ passes through the points }(1, 8), (2, 15), \text{and } (3, 24). \text{What is the value of a?",
+    "question": "A quadratic function } $f(x) = ax^2 + bx + c$ passes through the points $(1, 8), (2, 15), and $(3, 24)$. What is the value of a",
     "choices": {
       "A": "1",
       "B": "2",
